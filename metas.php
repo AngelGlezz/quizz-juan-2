@@ -1,13 +1,33 @@
 <?php
 	$metas = array(
-		"Messi" => array(
-			"title" => "¿messi o cr7? la verdad",
-			"description" => "¡Eres un D10S como Messi!",
+		"Martinoli" => array(
+			"title" => "Narrador",
+			"description" => "¡¿De qué te vas a disfraza?!",
 			"image" => "images/metas/0.png" 
 		),
-		"Bicho" => array(
-			"title" => "¿messi o cr7? la verdad",
-			"description" => "¡Siuuuuu! ¡Eres como 'El Comandante'!",
+		"Bermudez" => array(
+			"title" => "Narrador",
+			"description" => "¡Uff, uff y recontra uff!",
 			"image" => "images/metas/1.png" 
+		),
+		"Orvananos" => array(
+			"title" => "Narrador",
+			"description" => "¡Eres una fieraaaaa!",
+			"image" => "images/metas/2.png" 
+		),
+		"Tapia" => array(
+			"title" => "Narrador",
+			"description" => "Europeo sudamericano",
+			"image" => "images/metas/3.png" 
+		),
+		"Fernandez" => array(
+			"title" => "Narrador",
+			"description" => "Todo un clásico",
+			"image" => "images/metas/4.png" 
+		),
+		"Pollo" => array(
+			"title" => "Narrador",
+			"description" => "Nueva generación",
+			"image" => "images/metas/5.png" 
 		)
 	);

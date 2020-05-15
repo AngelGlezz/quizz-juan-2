@@ -443,7 +443,7 @@ function finish_test(total){
 			"left": -ventana_ancho
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/0.png'>");
-		totalfb = "Messi"
+		totalfb = "Martinoli"
 	} else if (img == 1) {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
@@ -452,7 +452,7 @@ function finish_test(total){
 			"left": -ventana_ancho
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/1.png'>");
-		totalfb = "Bicho";
+		totalfb = "Bermudez";
 	} else if (img == 2) {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
@@ -461,7 +461,7 @@ function finish_test(total){
 			"left": -ventana_ancho
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/2.png'>");
-		totalfb = "Bicho";
+		totalfb = "Orvananos";
 	} else if (img == 3) {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
@@ -470,7 +470,25 @@ function finish_test(total){
 			"left": -ventana_ancho
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/3.png'>");
-		totalfb = "Bicho";
+		totalfb = "Tapia";
+	} else if (img == 4) {
+		$("#indepth_resultados").css({
+			"visibility": "visible",
+			"position":"fixed",
+			"top": 0,
+			"left": -ventana_ancho
+		});
+		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/4.png'>");
+		totalfb = "Fernandez";
+	} else if (img == 5) {
+		$("#indepth_resultados").css({
+			"visibility": "visible",
+			"position":"fixed",
+			"top": 0,
+			"left": -ventana_ancho
+		});
+		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/5.png'>");
+		totalfb = "Pollo";
 	}
 
 	$("#indepth_resultados").animate({
