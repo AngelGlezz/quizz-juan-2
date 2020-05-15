@@ -206,7 +206,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				        }
 				        ,
 				        {
-				          "respuesta": "D) Mediano pero pinado",
+				          "respuesta": "D) Mediano pero peinado",
 				          "tipo": "Tapia"
 				        }
 				      ]
@@ -299,7 +299,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				          "tipo": "Martinoli"
 				        },
 				        {
-				          "respuesta": "C) ¡Y ahí van los grandotes",
+				          "respuesta": "C) ¡Y ahí van los grandotes!",
 				          "tipo": "Orvananos"
 				        }
 				      ]
