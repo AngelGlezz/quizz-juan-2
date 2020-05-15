@@ -58,15 +58,15 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) !¿De qué te vas a distrazar?",
-				          "tipo": "true"
+				          "tipo": "Martinoli"
 				        },
 				        {
 				          "respuesta": "B) Quiso hacerla de sexto año y la terminó de Kindergarden",
-				          "tipo": "false"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "C) Hay que ganar para poder ser campeón",
-				          "tipo": "false"
+				          "tipo": "Orvananos"
 				        }
 				      ]
 				    },
@@ -75,19 +75,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Verde",
-				          "tipo": "true"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "B) Amarillo",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "C) Azul",
-				          "tipo": "false"
+				          "tipo": "Fernandez"
 				        },
 				        {
 				          "respuesta": "D) Negro y blanco",
-				          "tipo": "false"
+				          "tipo": "Tapia"
 				        }
 				      ]
 				    },
@@ -96,15 +96,15 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Aficionados que viven la intensidad del futbol",
-				          "tipo": "true"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "B) Se abre el telón y comienza la función",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "C) Comienzan 90’ del deporte más hermoso del mundo",
-				          "tipo": "false"
+				          "tipo": "Tapia"
 				        }
 				      ]
 				    },
@@ -113,19 +113,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) En los 80",
-				          "tipo": "true"
+				          "tipo": "Fernandez"
 				        },
 				        {
 				          "respuesta": "B) En los 90",
-				          "tipo": "false"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "C) En los 2000",
-				          "tipo": "false"
+				          "tipo": "Martinoli"
 				        },
 				        {
 				          "respuesta": "D) En los 2010",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        }
 				      ]
 				    },
@@ -134,19 +134,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Solo y tranquilo",
-				          "tipo": "true"
+				          "tipo": "Fernandez"
 				        },
 				        {
 				          "respuesta": "B) Solo pero me emociono mucho",
-				          "tipo": "false"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "C) Me divierto con mis amigos",
-				          "tipo": "false"
+				          "tipo": "Martinoli"
 				        },
 				        {
 				          "respuesta": "D) Con amigos pero tranquilos",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        }
 				      ]
 				    },
@@ -155,19 +155,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Águila",
-				          "tipo": "true"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "B) Tigre",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "C) Oso",
-				          "tipo": "false"
+				          "tipo": "Tapia"
 				        },
 				        {
 				          "respuesta": "D) Lobo",
-				          "tipo": "false"
+				          "tipo": "Fernandez"
 				        }
 				      ]
 				    },
@@ -176,15 +176,15 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) ¡Cállate, Warrior, cállate, maldita sea!",
-				          "tipo": "true"
+				          "tipo": "Martinoli"
 				        },
 				        {
 				          "respuesta": "B) Bye, vete a enfriar",
-				          "tipo": "false"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "C) Uy, te dejo porque esa es de peligro",
-				          "tipo": "false"
+				          "tipo": "Orvananos"
 				        }
 				      ]
 				    },
@@ -193,21 +193,21 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Cabello largo",
-				          "tipo": "true"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "B) De a Peña Nieto",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        }
 				        ,
 				        {
 				          "respuesta": "C) Ya me estoy quedando calvo",
-				          "tipo": "false"
+				          "tipo": "Orvananos"
 				        }
 				        ,
 				        {
 				          "respuesta": "D) Mediano pero pinado",
-				          "tipo": "false"
+				          "tipo": "Tapia"
 				        }
 				      ]
 				    },
@@ -216,15 +216,15 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Se armó el Traca Traca",
-				          "tipo": "true"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "B) Esto no se acaba hasta que se acaba",
-				          "tipo": "false"
+				          "tipo": "Orvananos"
 				        },
 				        {
 				          "respuesta": "C) Su lechita y a dormir",
-				          "tipo": "false"
+				          "tipo": "Martinoli"
 				        }
 				      ]
 				    },
@@ -233,19 +233,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) A Estados Unidos",
-				          "tipo": "true"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "B) A Sudamérica",
-				          "tipo": "false"
+				          "tipo": "Tapia"
 				        },
 				        {
 				          "respuesta": "C) Francia",
-				          "tipo": "false"
+				          "tipo": "Martinoli"
 				        },
 				        {
 				          "respuesta": "D) Prefiero recorrer México",
-				          "tipo": "false"
+				          "tipo": "Fernandez"
 				        }
 				      ]
 				    },
@@ -254,19 +254,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Portero",
-				          "tipo": "true"
+				          "tipo": "Orvananos"
 				        },
 				        {
 				          "respuesta": "B) Defensa",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "C) Medio",
-				          "tipo": "false"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "D) Delantero",
-				          "tipo": "false"
+				          "tipo": "Fernandez"
 				        }
 				      ]
 				    },
@@ -275,15 +275,15 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Tantas veces te pedí una desgraciado",
-				          "tipo": "true"
+				          "tipo": "Martinoli"
 				        },
 				        {
 				          "respuesta": "B) ¡Me pongo de pie!",
-				          "tipo": "false"
+				          "tipo": "Fernandez"
 				        },
 				        {
 				          "respuesta": "C) Qué bonito es lo bonito",
-				          "tipo": "false"
+				          "tipo": "Bermudez"
 				        }
 				      ]
 				    },
@@ -292,15 +292,15 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Uffff, ufffff y re-contra ufff",
-				          "tipo": "true"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "B) ¡Magnifique!",
-				          "tipo": "false"
+				          "tipo": "Martinoli"
 				        },
 				        {
 				          "respuesta": "C) ¡Y ahí van los grandotes",
-				          "tipo": "false"
+				          "tipo": "Orvananos"
 				        }
 				      ]
 				    },
@@ -309,19 +309,19 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Muy aplicado",
-				          "tipo": "true"
+				          "tipo": "Fernandez"
 				        },
 				        {
 				          "respuesta": "B) Nunca pones atención",
-				          "tipo": "false"
+				          "tipo": "Orvananos"
 				        },
 				        {
 				          "respuesta": "C) Te la pasas contando chistes malos",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "D) Eres el foráneo",
-				          "tipo": "false"
+				          "tipo": "Tapia"
 				        }
 				      ]
 				    },
@@ -330,15 +330,15 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) Éste es, el cuatro veces heroico capitán mexicano",
-				          "tipo": "true"
+				          "tipo": "Martinoli"
 				        },
 				        {
 				          "respuesta": "B) ¡Zambombazo!",
-				          "tipo": "false"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "C) ¡La Fieeeeeeeraaaaaaa!",
-				          "tipo": "false"
+				          "tipo": "Orvananos"
 				        }
 				      ]
 				    },
@@ -347,15 +347,15 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "respuestas": [
 				        {
 				          "respuesta": "A) La tenía, era suya y la dejó ir",
-				          "tipo": "true"
+				          "tipo": "Bermudez"
 				        },
 				        {
 				          "respuesta": "B) Sálvese quien pueda… Niños y mujeres primero",
-				          "tipo": "false"
+				          "tipo": "Pollo"
 				        },
 				        {
 				          "respuesta": "C) ¡Toma chango tu banana!",
-				          "tipo": "false"
+				          "tipo": "Martinoli"
 				        }
 				      ]
 				    }
@@ -401,9 +401,10 @@ $("#indepth_boton_empezar").on("click",function(){
 			var respuesta_num = $(this).attr("num");
 			var pregunta_obj = preguntas[pregunta_num];
 			var respuesta_obj = pregunta_obj.respuestas[respuesta_num];
+			var tipo = respuesta_obj.tipo;
 			
 			$(this).addClass("select");
-			respuesta.push(respuesta_num);
+			respuesta.push(tipo);
 			console.log(respuesta);
 			
 			respuesta_cont.find('.indepth_respuesta_item').removeClass("active").addClass("disable");
@@ -435,7 +436,7 @@ function finish_test(total){
 	var img = total;
 	console.log(total);
 
-	if (img == 0) {
+	if (img == "Martinoli") {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
 			"position":"fixed",
@@ -444,7 +445,7 @@ function finish_test(total){
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/0.png'>");
 		totalfb = "Martinoli"
-	} else if (img == 1) {
+	} else if (img == "Bermudez") {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
 			"position":"fixed",
@@ -453,7 +454,7 @@ function finish_test(total){
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/1.png'>");
 		totalfb = "Bermudez";
-	} else if (img == 2) {
+	} else if (img == "Orvananos") {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
 			"position":"fixed",
@@ -462,7 +463,7 @@ function finish_test(total){
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/2.png'>");
 		totalfb = "Orvananos";
-	} else if (img == 3) {
+	} else if (img == "Tapia") {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
 			"position":"fixed",
@@ -471,7 +472,7 @@ function finish_test(total){
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/3.png'>");
 		totalfb = "Tapia";
-	} else if (img == 4) {
+	} else if (img == "Fernandez") {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
 			"position":"fixed",
@@ -480,7 +481,7 @@ function finish_test(total){
 		});
 		$(".inner").append("<img src='"+urlIndepth+"images/respuestas/4.png'>");
 		totalfb = "Fernandez";
-	} else if (img == 5) {
+	} else if (img == "Pollo") {
 		$("#indepth_resultados").css({
 			"visibility": "visible",
 			"position":"fixed",
