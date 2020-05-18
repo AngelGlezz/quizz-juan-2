@@ -500,31 +500,48 @@ function finish_test(total){
 
   	$("#indepth_twittear").click(function(){
   		var text = "";
-		if (total == 0) {
-			text = encodeURIComponent("¡Eres un D10S como Messi!?m="+totalfb);
-		} else if (total == 1) {
-			text = encodeURIComponent("¡Siuuuuu! ¡Eres como 'El Comandante'!?m="+totalfb);
+		if (total == "Martinoli") {
+			text = encodeURIComponent("¡¿De qué te vas a disfraza?!");
+		} else if (total == "Bermudez") {
+			text = encodeURIComponent("¡Uff, uff y recontra uff!");
+		} else if (total == "Orvananos") {
+			text = encodeURIComponent("¡Eres una fieraaaaa!");
+		} else if (total == "Tapia") {
+			text = encodeURIComponent("Europeo sudamericano");
+		} else if (total == "Fernandez") {
+			text = encodeURIComponent("Todo un clásico");
+		} else if (total == "Pollo") {
+			text = encodeURIComponent("Nueva generación");
 		}
 		
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/messi-o-cr7-la-verdad");
-		window.open("https://twitter.com/share?text="+text+"&hashtags=JFQuizz&url="+url,"","width=500, height=300");
+		var url = encodeURIComponent("http://juanfutbol.com/indepth/a-que-comentarista-te-pareces-mas");
+		window.open("https://twitter.com/share?text="+text+"&hashtags=JFQuizz&url="+url+"?m="+totalfb,"","width=500, height=300");
 	});
 
 	$("#indepth_facebook").click(function(){
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/messi-o-cr7-la-verdad?m="+totalfb);
+		var url = encodeURIComponent("http://juanfutbol.com/indepth/a-que-comentarista-te-pareces-mas?m="+totalfb);
 		window.open("https://www.facebook.com/sharer/sharer.php?u="+url,"","width=500, height=300");
 	});
 
 	$("#indepth_whatsapp").click(function(){
 		var text = "";
-		if (total == 0) {
-			text = encodeURIComponent("¡Soy un D10S como Messi! ¿Y tú?");
-		} else if (total == 1) {
-			text = encodeURIComponent("¡Siuuuuu! Soy como 'El Comandante'! ¿Y tú?");
+		if (total == "Martinoli") {
+			text = encodeURIComponent("¡¿De qué te vas a disfraza?!?m="+totalfb);
+		} else if (total == "Bermudez") {
+			text = encodeURIComponent("¡Uff, uff y recontra uff!?m="+totalfb);
+		} else if (total == "Orvananos") {
+			text = encodeURIComponent("¡Eres una fieraaaaa!?m="+totalfb);
+		} else if (total == "Tapia") {
+			text = encodeURIComponent("Europeo sudamericano?m="+totalfb);
+		} else if (total == "Fernandez") {
+			text = encodeURIComponent("Todo un clásico?m="+totalfb);
+		} else if (total == "Pollo") {
+			text = encodeURIComponent("Nueva generación?m="+totalfb);
 		}
 
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/messi-o-cr7-la-verdad?m="+totalfb);
-		window.open("https://wa.me/?text="+url+" "+text);
+		var url = encodeURIComponent("http://juanfutbol.com/indepth/a-que-comentarista-te-pareces-mas?m="+totalfb);
+		//window.open("https://wa.me/?text="+url+" "+text);
+		window.open("whatsapp://send?text="+text+" "+url+"?m="+totalfb);
 	});
 }
 
