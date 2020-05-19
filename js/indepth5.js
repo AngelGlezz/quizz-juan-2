@@ -57,7 +57,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      "pregunta": "Frase que recuerdas cuando repruebas una materia",
 				      "respuestas": [
 				        {
-				          "respuesta": "A) !¿De qué te vas a distrazar?",
+				          "respuesta": "A) ¡¿De qué te vas a disfrazar?!",
 				          "tipo": "Martinoli"
 				        },
 				        {
@@ -526,22 +526,21 @@ function finish_test(total){
 	$("#indepth_whatsapp").click(function(){
 		var text = "";
 		if (total == "Martinoli") {
-			text = encodeURIComponent("¡¿De qué te vas a disfraza?!?m="+totalfb);
+			text = encodeURIComponent("¡¿De qué te vas a disfraza?!");
 		} else if (total == "Bermudez") {
-			text = encodeURIComponent("¡Uff, uff y recontra uff!?m="+totalfb);
+			text = encodeURIComponent("¡Uff, uff y recontra uff!");
 		} else if (total == "Orvananos") {
-			text = encodeURIComponent("¡Eres una fieraaaaa!?m="+totalfb);
+			text = encodeURIComponent("¡Eres una fieraaaaa!");
 		} else if (total == "Tapia") {
-			text = encodeURIComponent("Europeo sudamericano?m="+totalfb);
+			text = encodeURIComponent("Europeo sudamericano");
 		} else if (total == "Fernandez") {
-			text = encodeURIComponent("Todo un clásico?m="+totalfb);
+			text = encodeURIComponent("Todo un clásico");
 		} else if (total == "Pollo") {
-			text = encodeURIComponent("Nueva generación?m="+totalfb);
+			text = encodeURIComponent("Nueva generación");
 		}
 
 		var url = encodeURIComponent("http://juanfutbol.com/indepth/a-que-comentarista-te-pareces-mas?m="+totalfb);
-		//window.open("https://wa.me/?text="+url+" "+text);
-		window.open("whatsapp://send?text="+text+" "+url+"?m="+totalfb);
+		window.open("whatsapp://send?text="+url+" "+text);
 	});
 }
 
